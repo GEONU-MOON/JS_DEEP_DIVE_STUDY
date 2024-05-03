@@ -1,5 +1,8 @@
 # JS_DEEP_DIVE_STUDY
 
+### 참고자료
+https://poiemaweb.com/
+
 <div style="display:flex; justify-content:center;">
 <img 
   style="width:50%;"
@@ -40,6 +43,9 @@
 
 - **1회차**: 2023년 5월 3일 금요일, 오전 9시
 - **공부할 범위** : CPT04 - CPT06
+
+- **2회차**: 2023년 5월 7일 화요일, 오전 9시
+- **공부할 범위** : CPT07 - CPT11
 
 ## 참여 방법
 
