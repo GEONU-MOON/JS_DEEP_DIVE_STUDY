@@ -1,5 +1,8 @@
 # JS_DEEP_DIVE_STUDY
 
+### 참고자료
+https://poiemaweb.com/
+
 <div style="display:flex; justify-content:center;">
 <img 
   style="width:50%;"
