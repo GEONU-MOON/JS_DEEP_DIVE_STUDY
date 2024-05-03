@@ -19,35 +19,3 @@
 코드 블록이 언제나 문의 종료를 의미하는 자체 종결성을 가지기 때문이다.
 
 표현식인 문과 아닌 문을 구별하는 가장 간단하고 명료한 방법은 변수에 할당해 보는 것이다.
-
-다음 중 표현식인 문을 고르세요.
-A. let x = 5;
-B. console.log("Hello, world!");
-C. let y = x + 3;
-D. function greet() { console.log("Hi there!"); }
-다음 중 리터럴을 사용한 변수 할당문을 고르세요.
-A. let num = 10;
-B. let message = "Hello";
-C. let result = x _ y;
-D. let person = { name: "John", age: 30 };
-다음 중 문이 아닌 것을 고르세요.
-A. let z = x + y;
-B. console.log("The result is", z);
-C. if (x > 0) { console.log("Positive"); }
-D. 15;
-다음 중 변수에 할당 가능한 표현식인 문을 고르세요.
-A. let x = 10;
-B. console.log("Hello");
-C. let y = 5 _ 3;
-D. function greet(name) { console.log("Hello, " + name); }
-다음 중 토큰이 아닌 것을 고르세요.
-A. let
-B. +
-C. 5
-D. greet()
-
-정답: C. let y = x + 3;
-정답: B. let message = "Hello";
-정답: D. 15;
-정답: C. let y = 5 \* 3;
-정답: D. greet()
