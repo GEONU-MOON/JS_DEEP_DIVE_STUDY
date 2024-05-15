@@ -15,3 +15,16 @@
 
 
 ------
+
+
+> ### 참고자료 
+- [scope관련 블로그](https://velog.io/@alsejr1004/JS-Scope)
+- [Scope Chain이란?](https://ljtaek2.tistory.com/140)
+- [렉시컬 스코프](https://velog.io/@chojs28/%EB%A0%89%EC%8B%9C%EC%BB%AC-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%BB%A4%EB%A7%81)
+[JS Execution Context 실행컨텍스트란 ? ](https://gamguma.dev/post/2022/04/js_execution_context)
+
+-----
+
+### 키워드
+1. 렉시컬 스코프 - 함수를 어디서 호출했는지가 아니라 어디에 정의되었는지에 따라 결정되는 스코프 (- 스코프란 ? 변수의 유효범위를 )의미한다.
+2. 스코프 체인 - 변수를 참조할 때 엔진은 스코프 체인을 통해 변수를 찾는다. 상위 스코프에서 유효한 변수는 하위 스코프에서 자유롭게 참조할 수 있다. 반대로 하위 스코프에서 유효한 변수를 상위 스코프에서 참조할 수 없다.

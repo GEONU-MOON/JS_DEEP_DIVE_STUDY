@@ -118,3 +118,7 @@ console.log(foo) // 123
 - ```var```는 사용하지 않는 것이 좋다.
 - 읽기전용 상수를 선언할 때는 ```const```를 사용한다.
 - 재할당 여부/변수의 스코프에 따라 ```let```과 ```const```를 선택하면 된다.
+
+
+원시값 종류 - Number, String, Boolean, null, undefined, Symbol
+참조값 종류 - Object, Array, Function
