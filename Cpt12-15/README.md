@@ -13,15 +13,13 @@
 - **퀴즈 출제자**: 섹션 진행자가 맡습니다.
 - **키워드 제출**: 각자 학습한 챕터에서 중요하다고 생각하는 키워드 1개 이상.
 
-
-------
-
+### 섹션 3회차 관련 키워드
 
 > ### 참고자료 
 - [scope관련 블로그](https://velog.io/@alsejr1004/JS-Scope)
 - [Scope Chain이란?](https://ljtaek2.tistory.com/140)
 - [렉시컬 스코프](https://velog.io/@chojs28/%EB%A0%89%EC%8B%9C%EC%BB%AC-%EC%8A%A4%EC%BD%94%ED%94%84%EC%99%80-%ED%81%B4%EB%A1%9C%EC%A0%80-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%BB%A4%EB%A7%81)
-[JS Execution Context 실행컨텍스트란 ? ](https://gamguma.dev/post/2022/04/js_execution_context)
+[JS Execution Context 실행컨텍스트란?](https://gamguma.dev/post/2022/04/js_execution_context)
 
 -----
 
