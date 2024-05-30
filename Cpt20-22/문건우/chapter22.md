@@ -13,13 +13,14 @@ const circle = {
   getDiameter() {
     // this는 메서드를 호출한 객체 circle을 가리킨다.
     return 2 * this.radius;
-  }
+  },
 };
+```
 
 ### this 바인딩
+
 - this 바인딩은 함수가 호출되는 방식에 의해 동적으로 결정된다.
-    - 일반 함수 호출 -> 전역 객체
-    - 메서드 호출 -> 메서드를 호출한 객체
-    - 생성자 함수 호출 -> 생성자 함수가 생성할 인스턴스
-    - Function.prototype.apply/call/bind 메서드에 의한 간접 호출 -> 인수에 전달한 객체
-```
+  - 일반 함수 호출 -> 전역 객체
+  - 메서드 호출 -> 메서드를 호출한 객체
+  - 생성자 함수 호출 -> 생성자 함수가 생성할 인스턴스
+  - Function.prototype.apply/call/bind 메서드에 의한 간접 호출 -> 인수에 전달한 객체
